@@ -1,0 +1,19 @@
+git clone <repository>
+
+git add <fileename>
+
+git commit -m "commit info"
+
+git pull --rebase
+
+git push origin master
+
+git checkout <existing branch>
+
+git checkout -b <new branch name>
+
+git pull, git pull origin master
+
+git stash
+
+git stash pop
